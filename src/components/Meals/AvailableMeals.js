@@ -41,6 +41,7 @@ const AvailableMeals =()=> {
             {mealsList}
         </ul>
         </Card>
+
     </section>
 };
 
